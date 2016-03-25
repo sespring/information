@@ -1,6 +1,5 @@
 # Hired Judges and Preferences 3/9
 
-### Subject:	Hired Judges and Preferences
 #### Sender:	Sarah Partlow Lefevre
 Sent to:	All Registrants of National Debate Tournament NDT at Binghamton
 
