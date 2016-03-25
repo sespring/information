@@ -14,6 +14,10 @@
 
 The Committee may take into consideration whether the proscribed conduct was a first offense or a repeat offense. A record of sanctions, including confidential admonition and censure, shall be kept. The Committee shall produce a publically-available written decision (save for confidential admonitions or censure) in the original case and for appeals to help ensure that a consistent set of principles is applied to cases.
 
+* d. A decision of the Committee (or its designee) imposing, or declining to impose, sanctions, may be appealed to the Appeals Committee of the NDT. The Appeals Committee or the NDT Committee may provide for the manner in which such appeals may be decided, including delegation of authority for deciding appeals (save that such authority may not be delegated to the Committee or any member thereof), and including the number of members of such committee who shall constitute a sufficient quorum for action on an appeal. A participant desiring to file a complaint should do so as soon as practicable. Complaints regarding tournament behavior will generally not be entertained unless made within 30 days of the end of the tournament. Complaints regarding post-tournament behavior related to or arising out of the NDT will generally not be entertained unless made within 30 days of the behavior complained of.
+* e. The NDT emphasizes that each and every individual participating in the NDT, or in any event associated with the NDT, is deemed to have agreed to this Policy. Given that predicate, each individual participating in the NDT, or in any activity associated with the NDT, agrees that any action taken in good faith by the NDT Board of Trustees, the NDT Committee, the Committee or any designee of the Committee, any witness or participant in any investigation, any complaining party, or any member, employee, attorney, agent, or designee of any of those bodies or persons, pursuant to this Policy, shall not give rise to any claim or cause of action whatsoever, of any kind, against any person, including specifically but not exclusively any claim for defamation, libel, or slander.
+
+
 
 
 
