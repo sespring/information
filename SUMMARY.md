@@ -8,6 +8,7 @@
        * [Discussion, Definitions, and Procedures](.rules/discussion,_definitions,_and_procedures.md)
        * [Harassment](.rules/harassment.md)
        * [Scope](.rules/scope.md)
+       * Violence
 * [Tournament Information](tournament_infomation.md)
    * [Email Archive](email_archive.md)
        * [Judging for NDT - 3/7](emails/judging_for_ndt.md)
