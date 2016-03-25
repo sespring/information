@@ -1,8 +1,8 @@
 # Judging for NDT - 3/7
 ## 3.7.16:	Judging for the NDT
 #### Sender:	Gary Larson
-#### Sent to:	All Registrants of NDT at Binghamton
-#### Sent on:	Mon, Mar 7, 2016 at 5:52 PM
+ Sent to:	All Registrants of NDT at Binghamton
+ Sent on:	Mon, Mar 7, 2016 at 5:52 PM
  
 #### Text of message:
 
