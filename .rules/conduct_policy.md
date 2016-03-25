@@ -1,2 +1,2 @@
 # Conduct Policy
-
+[include](toc)
