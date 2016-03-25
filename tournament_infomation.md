@@ -1,2 +1,2 @@
-# Tournament Infomation
+# Tournament Information
 
