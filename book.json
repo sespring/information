@@ -1,7 +1,8 @@
 {
     "plugins": [
         "structured-toc",
-        "googledocs"
+        "googledocs",
+        "include-codeblock"
     ],
     "pluginsConfig": {}
 }
