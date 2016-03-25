@@ -15,6 +15,6 @@
        * [Email communications before and during the NDT](emails/email_communications_before_and_during_the_ndt.md)
        * [Announcements 3/18](emails/announcements_318.md)
        * [NDT Constraint verification 3/20](emails/ndt_constraint_verification_320.md)
-       * NDT update 3/22
+       * [NDT update 3/22](emails/ndt_update_322.md)
    * [2016 Schedule](2016_schedule.md)
 
