@@ -2,7 +2,8 @@
     "plugins": [
         "structured-toc",
         "googledocs",
-        "include-codeblock"
+        "include-codeblock",
+        "rss"
     ],
     "pluginsConfig": {}
 }
