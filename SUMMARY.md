@@ -11,5 +11,6 @@
        * [HIred Judges and Preferences](emails/hired_judges_and_preferences.md)
        * [Deadline for entering judges for NDT](emails/deadline_for_entering_judges_for_ndt.md)
        * [Extra rounds by district](emails/extra_rounds_by_district.md)
+       * Judge Entries - Constraints
    * [2016 Schedule](2016_schedule.md)
 
