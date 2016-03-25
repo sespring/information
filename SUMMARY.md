@@ -5,7 +5,7 @@
    * [General Regulations](.rules/general_regulations.md)
    * [Conduct Policy](.rules/conduct_policy.md)
        * [Policy](.rules/policy.md)
-       * Discussion, Definitions, and Procedures
+       * [Discussion, Definitions, and Procedures](.rules/discussion,_definitions,_and_procedures.md)
 * [Tournament Information](tournament_infomation.md)
    * [Email Archive](email_archive.md)
        * [Judging for NDT - 3/7](emails/judging_for_ndt.md)
