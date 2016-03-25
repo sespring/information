@@ -12,6 +12,6 @@
        * [Deadline for entering judges for NDT](emails/deadline_for_entering_judges_for_ndt.md)
        * [Extra rounds by district](emails/extra_rounds_by_district.md)
        * [Judge Entries - Constraints](emails/judge_entries_-_constraints.md)
-       * Email communications before and during the NDT
+       * [Email communications before and during the NDT](emails/email_communications_before_and_during_the_ndt.md)
    * [2016 Schedule](2016_schedule.md)
 
