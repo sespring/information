@@ -17,5 +17,6 @@
        * [NDT Constraint verification 3/20](emails/ndt_constraint_verification_320.md)
        * [NDT update 3/22](emails/ndt_update_322.md)
        * [NDT Pref Sheets 3/22](emails/ndt_pref_sheets_322.md)
+       * NDT Catering and Registration 3/22
    * [2016 Schedule](2016_schedule.md)
 
