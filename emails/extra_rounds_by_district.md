@@ -1,6 +1,5 @@
 # Extra rounds by district 3/15
 
-### Subject:	Extra rounds by district
 #### Sender:	Gary Larson
 Sent to:	All Registrants of National Debate Tournament NDT at Binghamton
 
