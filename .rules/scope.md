@@ -1,2 +1,5 @@
 # Scope
 
+In formulating a policy on discrimination and harassment, the NDT hopes to eliminate a rather narrow range of behaviors and actions from this activity. But we cannot guarantee that the argumentative environment will be free from anxiety for all members of the community all of the time. Often, reasoned arguments which are pertinent to the debate are unsettling and disturbing.
+
+The experience of making, meeting, or being exposed to such arguments can be both painful and highly educational. The simple fact that a situation is uncomfortable does not automatically make it discriminatory or harassing. Teachers and students should be able to take controversial positions without fear, in accordance with the principles of academic freedom and ethical, rational discourse, informed by a commitment to simple civility.
