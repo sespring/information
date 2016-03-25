@@ -3,6 +3,7 @@
 ### Subject:	Judges without 12 rounds
 #### Sender:	Gary Larson
  Sent to:	All Registrants of NDT at Binghamton
+ 
  Sent on:	Mon, Mar 7, 2016 at 7:19 PM
 
 ### Text of message:
