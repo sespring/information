@@ -10,6 +10,7 @@
            * [Scope](.rules/scope.md)
            * [Violence](.rules/violence.md)
            * [Coach & Judge Responsibility](.rules/coach_&_judge_responsibility.md)
+           * Retaliation
        * [Procedures](.rules/procedures.md)
 * [Tournament Information](tournament_infomation.md)
    * [Email Archive](email_archive.md)
