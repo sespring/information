@@ -10,5 +10,6 @@
        * [Judging for the NDT - 3/9](emails/judging_for_the_ndt_-_39.md)
        * [HIred Judges and Preferences](emails/hired_judges_and_preferences.md)
        * [Deadline for entering judges for NDT](emails/deadline_for_entering_judges_for_ndt.md)
+       * Extra rounds by district
    * [2016 Schedule](2016_schedule.md)
 
