@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Standing Rules](.rules/standingrules.md)
    * [Conduct Policy](.rules/conduct_policy.md)
+   * General Regulations
 * [Tournament Information](tournament_infomation.md)
    * [Email Archive](email_archive.md)
        * [Judging for NDT - 3/7](emails/judging_for_ndt.md)
