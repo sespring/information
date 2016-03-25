@@ -1,5 +1,4 @@
 # Judging for the NDT - 3/9
-## Subject:	Judging for NDT
 ### Sender:	Gary Larson
 Sent to:	All Registrants of National Debate Tournament NDT at Binghamton
 
