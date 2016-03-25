@@ -5,6 +5,7 @@
    * [General Regulations](.rules/general_regulations.md)
    * [Conduct Policy](.rules/conduct_policy.md)
        * [Policy](.rules/policy.md)
+           * Test
        * [Discussion, Definitions, and Procedures](.rules/discussion,_definitions,_and_procedures.md)
        * [Harassment](.rules/harassment.md)
        * [Scope](.rules/scope.md)
