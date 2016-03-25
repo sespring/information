@@ -1,6 +1,5 @@
 # Deadline for entering judges for NDT - 3/15
 
-### Subject:	Deadline for entering judges for NDT
 #### Sender:	Gary Larson
 Sent to:	All Registrants of National Debate Tournament NDT at Binghamton
 
