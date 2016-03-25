@@ -6,7 +6,6 @@
    * [Conduct Policy](.rules/conduct_policy.md)
        * [Policy](.rules/policy.md)
            * [Discussion, Definitions, and Procedures](.rules/discussion,_definitions,_and_procedures.md)
-           * Test
        * [Harassment](.rules/harassment.md)
        * [Scope](.rules/scope.md)
        * [Violence](.rules/violence.md)
