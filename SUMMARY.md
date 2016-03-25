@@ -19,6 +19,6 @@
        * [NDT Pref Sheets 3/22](emails/ndt_pref_sheets_322.md)
        * [NDT Catering and Registration 3/22](emails/ndt_catering_and_registration_322.md)
        * [Judge Philosophies 3/22](emails/judge_philosophies_322.md)
-       * Question about pref assignments
+       * [Question about pref assignments](emails/question_about_pref_assignments.md)
    * [2016 Schedule](2016_schedule.md)
 
