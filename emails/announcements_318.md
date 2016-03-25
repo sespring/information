@@ -32,5 +32,6 @@ Please remember that:
 11. No smoking and no alcohol or controlled substances in any competition space. (Rule IV Section F-4 and F-5).
 12. “Individuals in attendance at the National Debate Tournament who provide significant coaching to, or argument production for, any team participating in the NDT should be required to enter the judging pool on a supplemental strike sheet for at least four debates or, if it is more appropriate, provide a significant equivalent contribution to the tournament as defined by the tournament host or director.” (Rule IV Section F-9)
 
+### [Standing Rules](../.rules/standingrules.md)
 
-{% include "emails/announcements_3/18" %}
+### [Conduct Policy](../.rules/conduct_policy.md)
